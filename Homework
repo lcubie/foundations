@@ -1,0 +1,5 @@
+#Homework plan. The overall task of this homework is to create code that works like madlibs. 
+#Task one: Import the mad libs data into a list
+#Task two: make a function that can append strings into the list and prints out each sentence with the missing string
+#Task three: include conditionals that verify if the user input is a string
+#Task four: be able to print the final edited madlib 
